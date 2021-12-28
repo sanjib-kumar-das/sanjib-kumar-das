@@ -1,7 +1,6 @@
 ## Hi there, I'm Sanjib Kumar Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/)
-<br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## I'm a Student, Developer and Indian ✔
@@ -48,8 +47,8 @@
 
 ### ✅ If you like what I do, maybe consider buying me a coffee 😊👉👈
 
-<a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/sanjibkrdas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das)](https://github.com/sanjib-kumar-das/github-readme-stats)
+[![Sanjib Kumar Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das)](https://github.com/sanjib-kumar-das/github-readme-stats)
