@@ -51,4 +51,4 @@
 
 ### My GitHub Stats
 
-[![Sanjib Kumar Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das)](https://github.com/sanjib-kumar-das/github-readme-stats)
+[![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das)](https://github.com/sanjib-kumar-das/github-readme-stats)
