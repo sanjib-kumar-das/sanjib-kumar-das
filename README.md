@@ -51,4 +51,4 @@
 
 ### My GitHub Stats
 
-![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das&show_icons=true&theme=merko&border_radius=10%)
+![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das&show_icons=true&theme=merko&border_radius=10%&include_all_commits=yes)
