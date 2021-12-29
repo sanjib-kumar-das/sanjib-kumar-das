@@ -52,3 +52,5 @@
 ### My GitHub Stats
 
 ![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das&show_icons=true&theme=merko&border_radius=10%&include_all_commits=1&show_owner=1&api/top-langs?username=sanjib-kumar-das)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib-kumar-das&layout=compact)](https://github.com/sanjib-kumar-das/github-readme-stats)
