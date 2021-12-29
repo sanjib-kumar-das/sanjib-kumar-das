@@ -45,10 +45,10 @@
 
 ---
 
-### ✅ If you like what I do, maybe consider buying me a coffee 😊👉👈
+### ✅ If you like what I do, maybe consider buying me a coffee 😊👉👈 <br>
 
 <a href="https://www.buymeacoffee.com/sanjibkrdas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### My GitHub Stats
 
-![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das&show_icons=true&theme=dark&border_radius=5%)
+![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das&show_icons=true&theme=merko&border_radius=10%)
