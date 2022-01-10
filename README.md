@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/) <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## I'm a Student, Developer and Indian <img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/india/india.png" />
+## I'm a Student, Developer and Indian 🟠⚪🟢
 
 🔭 I am currently a <b>student</b> of <b>Computer Science & Engineering</b> at <b>[University Institute of Technology](https://uit.buruniv.ac.in/)</b>. Working in something cool 😉
 
