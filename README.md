@@ -1,6 +1,6 @@
 ## Hi there, I'm Sanjib Kumar Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/) <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## I'm a Student, Developer and Indian ✔
@@ -25,6 +25,7 @@
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
