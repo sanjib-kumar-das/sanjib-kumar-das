@@ -7,7 +7,7 @@
 
 🔭 I am currently a <b>student</b> of <b>Computer Science & Engineering</b> at <b>[University Institute of Technology](https://uit.buruniv.ac.in/)</b>. Working in something cool 😉
 
-🌱 I’m currently learning <b>Front End Web Development & Graphic Designing</b>
+🌱 I’m currently learning <b>Front End Web Development & Graphic Designing</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 🤝 I’m looking to collaborate on web developer and graphic designer roles
 
