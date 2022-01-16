@@ -3,11 +3,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/) <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Student, Developer and Indian 🟠⚪🟢
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Student, Developer and Indian 🟠⚪🟢
 
-🔭 I am currently a <b>student</b> of <b>Computer Science & Engineering</b> at <b>[University Institute of Technology](https://uit.buruniv.ac.in/)</b>. Working in something cool 😉
+🏫 I am currently a <b>student</b> of <b>Computer Science & Engineering</b> at <b>[University Institute of Technology](https://uit.buruniv.ac.in/)</b>. Working in something cool 😉
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently learning <b>Front End Web Development & Graphic Designing</b> 
+🌐 I’m currently learning <b>Front End Web Development & Graphic Designing</b> 
 
 👨🏻‍💻 I’m looking to collaborate on web developer and graphic designer roles
 
