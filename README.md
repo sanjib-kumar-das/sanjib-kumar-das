@@ -1,6 +1,7 @@
 ## Hi there, I'm Sanjib Kumar Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/) <br><br>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/) &nbsp; &nbsp; ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sanjib-kumar-das#8936) &nbsp; &nbsp; &nbsp; ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/with_little_smile/) &nbsp; &nbsp; &nbsp; ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzGdpPrlWKQpzxHWVHjZDKlrnXLXScxgSJpZZXVsKfPjhCwFQfcSzbmwskMnPKzxfbwg)
+ <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Student, Developer and Indian 🟠⚪🟢
