@@ -57,6 +57,8 @@
 ### ✅ If you like what I do, maybe consider buying me a coffee 😊👉👈 <br>
 
 <a href="https://www.buymeacoffee.com/sanjibkrdas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+ 
+<hr>
 
 ### My GitHub Stats
 
@@ -65,3 +67,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjib-kumar-das&theme=tokyonight" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib-kumar-das)](https://github.com/sanjib-kumar-das/github-readme-stats)
+
+<hr>
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sanjib-kumar-das&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
