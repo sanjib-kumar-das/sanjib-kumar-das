@@ -1,10 +1,10 @@
 ## Hi there, I'm Sanjib Kumar Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b/)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sanjib-kumar-das#8936)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/with_little_smile/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzGdpPrlWKQpzxHWVHjZDKlrnXLXScxgSJpZZXVsKfPjhCwFQfcSzbmwskMnPKzxfbwg)
- [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://sanjibkumardas.wixsite.com/portfolio)
+ [![My Website](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://sanjibkumardas.wixsite.com/portfolio)
  <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=CODE+TIME&style=flat-square&color=brightgreen)
