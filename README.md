@@ -8,7 +8,7 @@
  <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-![Visitor Count](https://profile-counter.glitch.me/{sanjb-kumar-das}/count.svg)
+
 
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Student, Developer and Indian 🟠⚪🟢
 
