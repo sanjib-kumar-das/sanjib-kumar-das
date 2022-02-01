@@ -4,10 +4,11 @@
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sanjib-kumar-das#8936)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/with_little_smile/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzGdpPrlWKQpzxHWVHjZDKlrnXLXScxgSJpZZXVsKfPjhCwFQfcSzbmwskMnPKzxfbwg)
-[![Website](https://img.shields.io/badge/crome-%23E4405F.svg?style=for-the-badge&logo=Crome&logoColor=white)](https://www.instagram.com/with_little_smile/)
+ [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://sanjibkumardas.wixsite.com/portfolio)
  <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2054%20mins-blue)
+![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=CODE+TIME&style=flat-square&color=brightgreen)
+
 
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Student, Developer and Indian 🟠⚪🟢
 
