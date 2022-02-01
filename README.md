@@ -7,7 +7,7 @@
  [![My Website](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://sanjibkumardas.wixsite.com/portfolio)
  <br><br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
-![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=CODE+TIME&style=flat-square&color=brightgreen)
+
 
 
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Student, Developer and Indian 🟠⚪🟢
