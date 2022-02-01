@@ -68,6 +68,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib-kumar-das)](https://github.com/sanjib-kumar-das/github-readme-stats)
 
-<hr>
- 
  [![trophy](https://github-profile-trophy.vercel.app/?username=sanjib-kumar-das&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
