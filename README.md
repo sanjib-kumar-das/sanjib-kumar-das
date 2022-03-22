@@ -16,6 +16,8 @@
 
 🌐 I’m currently learning <b>Front End Web Development & Graphic Designing</b> 
 
+🐾 I'm very passionate about wildlife photography 📸
+
 👨🏻‍💻 I’m looking to collaborate on web developer and graphic designer roles
 
 🥅 <b>2022 Goals - </b> Contribute to Open Source projects, Make unique projects, Learn <b>Full Stack Web Development</b> and making a move to Startups
