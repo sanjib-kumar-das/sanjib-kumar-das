@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" rel="noopener noreferrer" ><kbd><img src="https://cdn.dribbble.com/users/2893612/screenshots/5654578/hello-dribbble.gif" alt="Hello world" style="width:50%;"></p>
+<p align="center"><a target="_blank" rel="noopener noreferrer" ><img src="https://cdn.dribbble.com/users/2893612/screenshots/5654578/hello-dribbble.gif" alt="Hello world" style="width:50%;"></p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sanjib Kumar Das 
 
