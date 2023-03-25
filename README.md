@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/with_little_smile/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzGdpPrlWKQpzxHWVHjZDKlrnXLXScxgSJpZZXVsKfPjhCwFQfcSzbmwskMnPKzxfbwg)
 <!-- [Portfolio Website](https://sanjib-kumar-das.me) -->
-<br><br>
+<br>
 ![](https://komarev.com/ghpvc/?username=sanjib-kumar-das&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Student, Developer and Indian 🟠⚪🟢
