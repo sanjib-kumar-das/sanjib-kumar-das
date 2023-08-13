@@ -98,7 +98,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanjib-kumar-das&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![sanjib-kumar-das's GitHub | Topics](https://stats.quine.sh/sanjib-kumar-das/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanjib-kumar-das)
+[![sanjib-kumar-das's GitHub | Languages Over Time](https://stats.quine.sh/sanjib-kumar-das/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanjib-kumar-das)
 
 <br><br><br>
 
