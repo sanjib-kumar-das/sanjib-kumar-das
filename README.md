@@ -86,6 +86,8 @@
 
 ### My GitHub Stats
 
+[![sanjib-kumar-das's GitHub | Topics](https://stats.quine.sh/sanjib-kumar-das/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanjib-kumar-das)
+
 ![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-kumar-das&show_icons=true&theme=merko&border_radius=10%&include_all_commits=1&show_owner=1)
 
 [![sanjib-kumar-das's GitHub | Stats](https://stats.quine.sh/sanjib-kumar-das/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanjib-kumar-das)
