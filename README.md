@@ -1,7 +1,7 @@
 <p align="center"><a target="_blank" rel="noopener noreferrer" ><kbd><img src="https://cdn.dribbble.com/users/2893612/screenshots/5654578/hello-dribbble.gif" alt="Hello world" style="width:50%;" /></kbd></p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-Hi there, I'm [Sanjib Kumar Das](https://sanjib-kumar-das.me)
+## Hi there, I'm [Sanjib Kumar Das](https://sanjib-kumar-das.me)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjibkumardas-webdev/)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sanjib-kumar-das#8936)
